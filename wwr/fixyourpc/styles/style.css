@@ -190,3 +190,46 @@ footer a:hover {
 footer .social img {
     padding-top: 15px;
 }
+
+/* FAQ PAGE*/
+.title-faq {
+  text-align: center;
+  font-family: Kalam;
+}
+.faq-picture {
+  width: 50%;
+  border: 10px solid #26413C;
+}
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  text-align: center;
+  box-sizing: border-box; 
+  align-items: center;
+  justify-items: center; 
+}
+.title-faq {
+  text-align: center;
+}
+.title-faq h2 {
+  margin-top: 70px;
+}
+.question{
+  background: #8AB0AB;
+  margin: 30px;
+  vertical-align: middle;
+  width: 70%;
+
+}
+.faq-grid .tip h3  {
+  font-size: 16px;
+  padding: 10px;
+}
+.faq-grid .tip p {
+  font-size: 14px;
+  padding: 10px;
+}
+.faq-grid .tip li {
+  font-size: 14px;
+  padding: 10px;
+}
