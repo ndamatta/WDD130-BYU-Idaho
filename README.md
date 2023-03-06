@@ -2,7 +2,7 @@
 Date: 11/11/2022<br>
 [WDD130]🖥️ Web Fundamentals: My assignments
 
-<h3>Hi there! This is <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
+<h3>Hi there! I'm <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
 
 In this repo you will find the assignments of <strong>WDD130.</strong> I hope it helps future students at BYU-Idaho<br>
 Each folder contains the Checkpoint, Team and Prove assignments of every week.<br>
