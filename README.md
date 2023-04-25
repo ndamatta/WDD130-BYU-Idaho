@@ -22,5 +22,5 @@ Please feel free to make a pull request (changes) if you consider that there is 
 This course helped me to realize how much I like programming, and I hope it does the same for you. Try your best to learn, understand, and complete the assignments, it will be a solid foundation for following courses.<br>
 This is an inspired course from the Church. All the instructors try their best to help us to learn and achieve our goals.
 
-Thanks for reading!<br>
+Thanks for reading<br>
 <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a> :)
