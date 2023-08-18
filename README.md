@@ -3,7 +3,7 @@
 # BYU-Idaho: Web and Computer Programming<br> <i>Major: Applied Technology</i>
 <picture><img src="https://img.shields.io/badge/2022-blue?style=for-the-badge&label=SEP"></picture>     <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<picture><img src="https://github.com/ndamatta/CSE110-BYU-Pathway/assets/105658793/27eabe6f-846c-4fd7-ab35-be4801f97d1c"></picture><br>
+<picture><img src="https://github.com/ndamatta/WDD130-BYU-Idaho/assets/105658793/bcf0d2f6-d2e8-4acc-98ed-1890a020d07e"></picture><br>
 
 <h3>Hello! I'm <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
 This repository contains 6 websites created by me. You can <strong>click</strong> the website's name to explore them.<br>
