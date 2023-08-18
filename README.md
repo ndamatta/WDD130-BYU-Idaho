@@ -1,26 +1,23 @@
-# BYU-Idaho Applied Technology<br>
-Date: 11/11/2022<br>
-[WDD130]🖥️ Web Fundamentals: My assignments
+<picture><img src="https://github.com/ndamatta/CSE111-BYU-Idaho/assets/105658793/ae948b5f-b9d3-46e5-8df8-002d5c89f2d7" alt="Banner-img"></picture>
 
-<h3>Hi there! I'm <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
+# BYU-Idaho: Web and Computer Programming<br> <i>Major: Applied Technology</i>
+<picture><img src="https://img.shields.io/badge/2022-blue?style=for-the-badge&label=SEP"></picture>     <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-In this repo you will find the assignments of <strong>WDD130.</strong> I hope it helps future students at BYU-Idaho<br>
-Each folder contains the Checkpoint, Team and Prove assignments of every week.<br>
-• I finished this course with an A+ grade.<br>
-• All assignments are done by <b>me</b> during the course, these are not the only way to accomplish it.<br> 
-• All assignments passed the grading and were checked<br>
-• Some assignments don't have the stretch challange done, but most do.<br>
+<picture><img src="https://github.com/ndamatta/CSE110-BYU-Pathway/assets/105658793/27eabe6f-846c-4fd7-ab35-be4801f97d1c"></picture><br>
 
-Please feel free to make a pull request (changes) if you consider that there is something to update or improve. I tried to do my best and be as tidy as possible.<br>
+<h3>Hello! I'm <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
+This repository contains 6 websites created by me. You can <strong>click</strong> the website's name to explore them.<br>
+I made these websites about a year ago – they were my first attempts at coding, so the designs and code itself it's very simple. Going back to the code, I can see many things I want to make better and change. But I want to be honest, so you all can see how much I have improved since then.<br>
+You can explore the folders to see the code and information about each website!<br>
+<br>
+🌐 <strong><a href="https://ndamatta.github.io/WDD130-BYU-Idaho/aboutme/index.html">About me</a></strong> | 📁 <a href="https://github.com/ndamatta/WDD130-BYU-Idaho/tree/master/aboutme">Folder<br>
+🌐 <strong><a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/index.html">White Water Rafting</a></strong><br>
+🌐 <strong><a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/site-plan-rafting.html">White Water Rafting: Siteplan</a></strong><br>
+🌐 <strong><a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/fixyourpc/index.html">Fix Your PC</a></strong><br>
+🌐 <strong><a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/fixyourpc/site-plan.html">Fix Your PC: Siteplan</a></strong><br>
+🌐 <strong><a href="https://ndamatta.github.io/WDD130-BYU-Idaho/positioning/positioning.html">Positioning Activity</a></strong><br>
 
-<b>DISCLAIMER:</b><br>
-• Follow your instructor's advices in EVERY assignment. Before checking for something here, go and ask help to your classmates. They're really cool and are always willing to help<br> 
-• I <strong>DON'T</strong> encourage cheating on assignments, if you are really doing the course it is to learn, and these assignments help you a lot with that.<br>
-• I <strong>REJECT</strong> any charge of encouraging students to cheat, knowing that it is against <a href="https://dfkpq46c1l9o7.cloudfront.net/pdfs/148e250c14f5be811f0c42353b9d46dc.pdf">BYU's Honor Code.</a><br>
-• This repository has the purpose that, if any student feels stuck in a task, he can have an idea of what steps to take and how the operation is carried out.<br>
 
-This course helped me to realize how much I like programming, and I hope it does the same for you. Try your best to learn, understand, and complete the assignments, it will be a solid foundation for following courses.<br>
-This is an inspired course from the Church. All the instructors try their best to help us to learn and achieve our goals.
-
-Thanks for reading<br>
-<a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a> :)
+<br>
+If this was helpful, don't hesitate to reach me out in <a href="https://www.linkedin.com/in/natanael-damatta/">Linkedin</a>!<br>
+:)
