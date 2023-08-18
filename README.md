@@ -7,14 +7,21 @@
 
 <h3>Hello! I'm <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
 This repository contains 6 websites created by me. You can <strong>click</strong> the website's name to explore them.<br>
+<br>
 I made these websites about a year ago – they were my first attempts at coding, so the designs and code itself it's very simple. Going back to the code, I can see many things I want to make better and change. But I want to be honest, so you all can see how much I have improved since then.<br>
+<br>
 You can explore the folders to see the code and information about each website!<br>
 <br>
 🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/aboutme/index.html">About me</a> || 📁 <a href="https://github.com/ndamatta/WDD130-BYU-Idaho/tree/master/aboutme">Folder</a><br>
+<br>
 🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/index.html">White Water Rafting</a> || 📁 <a href="https://github.com/ndamatta/WDD130-BYU-Idaho/tree/master/wwr">Folder</a><br>
+<br>
 🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/site-plan-rafting.html">White Water Rafting: Siteplan</a><br>
+<br>
 🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/fixyourpc/index.html">Fix Your PC</a> || 📁 <a href ="https://github.com/ndamatta/WDD130-BYU-Idaho/tree/master/fixyourpc">Folder</a><br>
+<br>
 🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/fixyourpc/site-plan.html">Fix Your PC: Siteplan</a><br>
+<br>
 🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/positioning/positioning.html">Positioning Activity</a> || 📁 <a href="https://github.com/ndamatta/WDD130-BYU-Idaho/tree/master/positioning">Folder</a><br>
 
 
