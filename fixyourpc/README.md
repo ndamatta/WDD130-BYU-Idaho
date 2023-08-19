@@ -1,6 +1,6 @@
 <picture><img src="https://img.shields.io/badge/FIX YOUR PC-purple?label=web"></picture><br>
-🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/">Website</a><br>
-🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/wwr/site-plan-rafting.html">Siteplan</a><br>
+🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/fixyourpc/">Website</a><br>
+🌐 <a href="https://ndamatta.github.io/WDD130-BYU-Idaho/fixyourpc/site-plan.html">Siteplan</a><br>
 <br>
 <picture><img src="https://img.shields.io/badge/DESCRIPTION:-blue"></picture><br>
 <br>
