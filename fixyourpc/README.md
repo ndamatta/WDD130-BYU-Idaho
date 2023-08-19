@@ -16,7 +16,7 @@ The website consists of 3 main webpages:<br>
 <br>
 <picture><img src="https://img.shields.io/badge/Siteplan:-blue"></picture><br>
 The website highlights my ability to plan, document, and design websites before diving into coding.<br>
-I prepared various aspects of the site:
+I prepared various aspects of the site:<br>
 <ul>
     <li><b>Purpose and Audience</b>: Understanding the website's goals and target audience.</li>
     <li><b>Branding</b>: Incorporating logos and design elements.</li>
