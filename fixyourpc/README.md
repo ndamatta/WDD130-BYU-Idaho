@@ -8,20 +8,23 @@
 This project was created for a client who runs a business specializing in PC repairment and PC tips. I coded it using basic HTML and CSS without any JavaScript involved.<br>
 <br>
 The website consists of 3 main webpages:<br>
-<b>Home</b>: This page features cards with tips to clean and optimize a PC. It includes 8 cards, each representing a different tip. A brief description with instruction these cards. Also, it display a carousel of images.<br>
-<b>FAQ</b>: This section addresses common questions from website visitors. It's designed with 3 cards containing informative text, aligned using a grid layout for neatness.<br>
-<b>About us</b>: It shows a brief description about the company and the physical location.<br>
+<ul>
+    <li><b>Home</b>: This page features cards with tips to clean and optimize a PC. It includes 8 cards, each representing a different tip. The cards cointain a brief description with instructions. Also, it display a carousel of images.</li>
+    <li><b>FAQ</b>: This section addresses common questions from website visitors. It's designed with 3 cards containing informative text, aligned using a grid layout for neatness.</li>
+    <li><b>About us</b>: It shows a brief description about the company and the physical location.</li>
+</ul>
+<br>
 <br>
 <picture><img src="https://img.shields.io/badge/Siteplan:-blue"></picture><br>
 The website highlights my ability to plan, document, and design websites before diving into coding.<br>
 I prepared various aspects of the site:
 <ul>
-    <li>Purpose and Audience: Understanding the website's goals and target audience.</li>
-    <li>Branding: Incorporating logos and design elements.</li>
-    <li>Style Guide: Defining a color palette and typography, illustrated with examples.</li>
-    <li>Site Map: Organizing the website's structure.</li>
-    <li>Content: Organizing and displaying website's content</li>
-    <li>Wireframe: Creating mockup designs to visualize the site's layout.  </li>
+    <li><b>Purpose and Audience</b>: Understanding the website's goals and target audience.</li>
+    <li><b>Branding</b>: Incorporating logos and design elements.</li>
+    <li><b>Style Guide</b>: Defining a color palette and typography, illustrated with examples.</li>
+    <li><b>Site Map</b>: Organizing the website's structure.</li>
+    <li><b>Content</b>: Organizing and displaying website's content.</li>
+    <li><b>Wireframe</b>: Creating mockup designs to visualize the site's layout.</li>
 </ul>
 <br>
 <picture><img src="https://img.shields.io/badge/Conclusion:-blue"></picture><br>
