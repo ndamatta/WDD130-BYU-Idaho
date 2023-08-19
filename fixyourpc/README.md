@@ -5,7 +5,7 @@
 <picture><img src="https://img.shields.io/badge/DESCRIPTION:-blue"></picture><br>
 <br>
 <picture><img src="https://img.shields.io/badge/Website:-blue"></picture><br>
-This project was created for a client who runs a business specializing in rafting trips and excursions. I coded it using basic HTML and CSS without any JavaScript involved.<br>
+This project was created for a client who runs a business specializing in PC repairment and PC tips. I coded it using basic HTML and CSS without any JavaScript involved.<br>
 <br>
 The website consists of 3 main webpages:<br>
 <b>Home</b>: This page features cards with tips to clean and optimize a PC. It includes 8 cards, each representing a different tip. A brief description with instruction these cards. Also, it display a carousel of images.<br>
