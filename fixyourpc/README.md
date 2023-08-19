@@ -14,7 +14,6 @@ The website consists of 3 main webpages:<br>
     <li><b>About us</b>: It shows a brief description about the company and the physical location.</li>
 </ul>
 <br>
-<br>
 <picture><img src="https://img.shields.io/badge/Siteplan:-blue"></picture><br>
 The website highlights my ability to plan, document, and design websites before diving into coding.<br>
 I prepared various aspects of the site:
