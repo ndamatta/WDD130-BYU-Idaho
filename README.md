@@ -8,7 +8,8 @@
 <h3>Hello! I'm <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
 This repository contains 6 websites created by me. You can <strong>click</strong> the website's name to explore them.<br>
 <br>
-I made these websites about a year ago – they were my first attempts at coding, so the designs and code itself it's very simple. Going back to the code, I can see many things I want to make better and change. But I want to be honest, so you all can see how much I have improved since then.<br>
+I made these websites about a year ago – they were my first attempts at coding, so the designs and code itself it's very simple.<br>
+Looking back the code, I can see many things to improve and things I could make better. But the idea is to show how much I have improved since then.<br>
 <br>
 You can explore the folders to see the code and information about each website!<br>
 <br>
